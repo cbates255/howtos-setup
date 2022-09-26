@@ -1,0 +1,7 @@
+install the ssh remote extension
+add a remote and use ec2-user@(ipaddress)
+set up the config file:
+Host ec2
+  HostName ec2-107-20-67-65.compute-1.amazonaws.com
+  IdentityFile "/home/chad/Desktop/AWS keypairs/latestpair.pem"
+  User ec2-user
