@@ -1,0 +1,7 @@
+# This script is meant for quick & easy install via:
+#   $ curl -fsSL https://get.docker.com -o get-docker.sh
+#   $ sh get-docker.sh
+
+then run sudo usermod -a -G docker (username)
+^^^ this gives priviledges to run docker commands without sudo
+exit and log back in again
