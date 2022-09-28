@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"name": "howtos-setup",
+			"path": "."
+		},
+		{
+			"path": "../Docker"
+		}
+	],
+	"settings": {}
+}
