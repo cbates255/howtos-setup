@@ -1,11 +1,10 @@
 {
 	"folders": [
 		{
-			"name": "howtos-setup",
-			"path": "."
+			"path": "../Terraform"
 		},
 		{
-			"path": "../Docker"
+			"path": "."
 		}
 	],
 	"settings": {},
