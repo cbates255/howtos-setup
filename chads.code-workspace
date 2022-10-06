@@ -11,6 +11,9 @@
 		{
 			"name": "terraform_project",
 			"path": "../../terraform_project"
+		},
+		{
+			"path": "."
 		}
 	],
 	"settings": {},
